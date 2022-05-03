@@ -1,1 +1,9 @@
-
+id - TXT001
+head - TXT bug report
+steps - step_1,step_2,step_3
+fact - actually the result
+expect - expected result
+environment - OS, Browser, hardware
+severity - trivial
+priority - low
+notes - text
