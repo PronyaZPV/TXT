@@ -1,0 +1,2 @@
+softSkills - sociability,diligence,assiduity
+hardSkills - terminal,JS,Postman,API test,mobile test,testing method
