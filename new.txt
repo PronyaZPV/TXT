@@ -1,0 +1,4 @@
+name - Pronchatov Evgeny
+age - 35
+pets - 2
+salary - 2000 $
